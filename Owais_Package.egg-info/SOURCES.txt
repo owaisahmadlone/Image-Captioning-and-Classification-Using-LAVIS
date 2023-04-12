@@ -1,0 +1,17 @@
+README.md
+setup.py
+Owais_Package/__init__.py
+Owais_Package/model.py
+Owais_Package.egg-info/PKG-INFO
+Owais_Package.egg-info/SOURCES.txt
+Owais_Package.egg-info/dependency_links.txt
+Owais_Package.egg-info/top_level.txt
+Owais_Package/data/__init__.py
+Owais_Package/data/dataset.py
+Owais_Package/data/download.py
+Owais_Package/data/transforms/__init__.py
+Owais_Package/data/transforms/blur.py
+Owais_Package/data/transforms/crop.py
+Owais_Package/data/transforms/flip.py
+Owais_Package/data/transforms/rescale.py
+Owais_Package/data/transforms/rotate.py
